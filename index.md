@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /models/01-odds-over-probability
+      link: /references/models/01-odds-over-probability
     - theme: alt
       text: 查看案例
-      link: /cases/00-index
+      link: /references/cases/00-index
 
 features:
   - icon: 🧠
