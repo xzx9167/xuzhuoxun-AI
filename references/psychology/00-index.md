@@ -128,6 +128,6 @@
 > 「自我欺骗导致过度下注 → 必然毁灭」
 
 ## 相关启发式
-- [两个隔夜止损](./heuristics/02-two-night-stop.md) - 执行纪律
-- [先结论后逻辑](./heuristics/07-conclusion-first.md) - 决策框架
-- [凯利公式](./heuristics/kelly-formula.md) - 仓位管理
+- [两个隔夜止损](../heuristics/02-two-night-stop.md) - 执行纪律
+- [先结论后逻辑](../heuristics/07-conclusion-first.md) - 决策框架
+- [凯利公式](../heuristics/kelly-formula.md) - 仓位管理

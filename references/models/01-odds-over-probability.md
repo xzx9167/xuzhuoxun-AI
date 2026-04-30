@@ -46,5 +46,5 @@
 > 「当赔率结构被政策/黑天鹅完全破坏时，此模型失效。」
 
 ## 相关案例
-- [弹簧理论买点](./cases/spring-theory.md) - 赔率最佳的入场时机
-- [以损定量](./heuristics/01-loss-based-sizing.md) - 用止损线倒推仓位
+- [弹簧理论买点](../cases/spring-theory.md) - 赔率最佳的入场时机
+- [以损定量](../heuristics/01-loss-based-sizing.md) - 用止损线倒推仓位

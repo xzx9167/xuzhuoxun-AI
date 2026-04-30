@@ -80,8 +80,8 @@
 - 回踩60日线 + 缩量 + 阳线 → 长线机会
 
 ### 案例
-- [2025年1月开年暴跌](./cases/2025-january-crash.md) - 弹簧买点实战复盘
+- [2025年1月开年暴跌](../cases/2025-january-crash.md) - 弹簧买点实战复盘
 
 ## 相关启发式
-- [弹簧压紧松开](./heuristics/05-spring-compression.md) - 操作层面
-- [两个隔夜止损](./heuristics/02-two-night-stop.md) - 买错怎么办
+- [弹簧压紧松开](../heuristics/05-spring-compression.md) - 操作层面
+- [两个隔夜止损](../heuristics/02-two-night-stop.md) - 买错怎么办

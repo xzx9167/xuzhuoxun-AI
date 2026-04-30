@@ -84,5 +84,5 @@
 > 「对于没有三种能力的普通人，被动指数投资是最好的选择」
 
 ## 相关模型
-- [马太效应](./models/06-matthew-effect.md) - 财富高度分化
-- [资金面权重最高](./models/03-capital-flow-supremacy.md) - 资金驱动
+- [马太效应](../models/06-matthew-effect.md) - 财富高度分化
+- [资金面权重最高](../models/03-capital-flow-supremacy.md) - 资金驱动

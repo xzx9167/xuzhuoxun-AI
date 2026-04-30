@@ -154,5 +154,5 @@
 > 「中国股市每7-10年一轮牛市——核心原因是场外可投入股市的存款积攒至一定规模 + 市场周期性起伏」
 
 ## 相关启发式
-- [预备队思维](./heuristics/04-reserve-force.md) - 仓位管理
-- [资金面权重最高](./models/03-capital-flow-supremacy.md) - 资金面分析框架
+- [预备队思维](../heuristics/04-reserve-force.md) - 仓位管理
+- [资金面权重最高](./03-capital-flow-supremacy.md) - 资金面分析框架

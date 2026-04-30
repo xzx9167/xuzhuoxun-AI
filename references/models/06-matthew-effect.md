@@ -45,5 +45,5 @@
 > 「A500是中国版S&P500——从每个行业子板块选龙头，捕捉行业内的马太效应」
 
 ## 相关启发式
-- [以损定量](./heuristics/01-loss-based-sizing.md) - 仓位管理
-- [正金字塔仓位](./heuristics/03-positive-pyramid.md) - 越涨越减
+- [以损定量](../heuristics/01-loss-based-sizing.md) - 仓位管理
+- [正金字塔仓位](../heuristics/03-positive-pyramid.md) - 越涨越减

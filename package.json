@@ -1,0 +1,25 @@
+{
+  "name": "xuzhuoxun-ai",
+  "version": "1.0.0",
+  "description": "徐倬迅A股思维框架知识库 - 基于全部公众号文章+知识星球问答深度调研",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkPeace/xuzhuoxun-AI.git"
+  },
+  "keywords": ["a-stock", "investment", "trading", "mental-model", "knowledge-base", "claude-skill"],
+  "author": "xuzhuoxun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThinkPeace/xuzhuoxun-AI/issues"
+  },
+  "homepage": "https://github.com/ThinkPeace/xuzhuoxun-AI#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

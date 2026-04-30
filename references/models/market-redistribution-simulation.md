@@ -86,4 +86,4 @@ T+1限制日内换手率 = 减缓财富再分配速度
 
 ## 相关模型
 - [马太效应](./06-matthew-effect.md) - 股票回报分化
-- [三种能力](./misc/three-abilities.md) - 普通人的最优解
+- [三种能力](../misc/three-abilities.md) - 普通人的最优解

@@ -78,5 +78,5 @@
 > 「情绪博弈是辅助工具，不是决策依据。最终还是要看资金面。」
 
 ## 相关启发式
-- [热点生命周期](./heuristics/06-hot-topic-lifecycle.md) - 情绪热点节奏
-- [一致预期反转](./heuristics/07-contrarian.md) - 逆向思维
+- [热点生命周期](../heuristics/06-hot-topic-lifecycle.md) - 情绪热点节奏
+- [一致预期反转](../heuristics/07-conclusion-first.md) - 先结论后逻辑
